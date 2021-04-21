@@ -16,13 +16,13 @@
 
     <!-- water drop shape for second image view -->
     <style name="water_drop" parent="">
-        <item name="cornerSizeTopRight">142dp</item>
+        <item name="cornerSizeTopRight">@dimen/corner_size_top</item>
         <item name="cornerFamilyTopRight">cut</item>
-        <item name="cornerSizeTopLeft">142dp</item>
+        <item name="cornerSizeTopLeft">@dimen/corner_size_top</item>
         <item name="cornerFamilyTopLeft">cut</item>
-        <item name="cornerSizeBottomRight">74dp</item>
+        <item name="cornerSizeBottomRight">@dimen/corner_size_bottom</item>
         <item name="cornerFamilyBottomRight">rounded</item>
-        <item name="cornerSizeBottomLeft">74dp</item>
+        <item name="cornerSizeBottomLeft">@dimen/corner_size_bottom</item>
         <item name="cornerFamilyBottomLeft">rounded</item>
     </style>
 
