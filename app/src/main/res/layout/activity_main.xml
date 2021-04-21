@@ -22,7 +22,7 @@
         android:layout_width="160dp"
         android:layout_height="225dp"
         android:layout_margin="@dimen/marginNormal"
-        android:src="@drawable/burger"/>
+        android:background="@drawable/combine_drawable"/>
 
     <ImageView
         android:layout_width="160dp"
