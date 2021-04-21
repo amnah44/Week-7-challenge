@@ -24,10 +24,11 @@
         android:layout_margin="@dimen/marginNormal"
         android:background="@drawable/combine_drawable"/>
 
-    <ImageView
+    <com.google.android.material.imageview.ShapeableImageView
         android:layout_width="160dp"
         android:layout_height="225dp"
         android:layout_margin="@dimen/marginNormal"
+        app:shapeAppearanceOverlay="@style/water_drop"
         android:src="@drawable/burger"/>
 
 </LinearLayout>
